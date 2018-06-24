@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test name="Test">
+  <parameter name="userid" value="mercury" />
+  <parameter name="passwd" value="mercury" />
+    <classes>
+      <class name="testng.MTloginTest"/>
+    </classes>
+  </test> 
+</suite>
+
